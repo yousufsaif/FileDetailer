@@ -20,7 +20,7 @@ This PowerShell script is designed to extract detailed information about files i
    - `3` for sorting by Date and Time of Last Modification.
    - `4` for sorting by Date and Time of Creation.
    - `5` for sorting by Path of the Containing Folder.
-4. **Output**: The script will create a sorted CSV file named `SortedFileDetails.csv` in the current directory.
+4. **Output**: The script will create a sorted CSV file named `FileDetails.csv` in the current directory.
 
 ## Output File Format
 
@@ -56,7 +56,7 @@ This script is provided "as is", without warranty of any kind, express or implie
 
 ## Author
 
-github.com/yousufsaif
+https://github.com/yousufsaif
 
 ## Contributions
 
